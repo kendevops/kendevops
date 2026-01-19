@@ -4,11 +4,9 @@ I am a highly experienced Senior Frontend Engineer with over 7 years of industry
 
 ![Kendevops's Stats](https://github-readme-stats.vercel.app/api?username=kendevops&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Kendevops's Stats](https://camo.githubusercontent.com/f8c612789e3d026d58084045eb80a13e828a67793563fca957631aef3e8883e8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b656e6465766f7073267468656d653d7675652d6461726b2673686f775f69636f6e733d7472756526686964655f626f726465723d7472756526636f756e745f707269766174653d74727565)
-
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+- 🔭 I'm currently pursuing my Master's in Computer Science at UoPeople.
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
