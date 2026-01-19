@@ -20,7 +20,7 @@ I have worked across multiple industries including fintech, blockchain, e-commer
 
 ## 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,zustand,tailwind,scss,graphql,nodejs,postgres,docker,aws,gcp,git,github,figma,jest,vitest,webpack,postman,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,redux,tailwind,sass,less,jquery,jest,threejs,graphql,vscode,git,github,gitlab,gcp,aws,figma,py,django,postman,nodejs,appwrite,docker,npm,pnpm,postgres,gulp,netlify,webpack,md,regex,apple,powershell,ubuntu,linux,stackoverflow,)](https://skillicons.dev)
 
 ## 🌱 Current Focus
 
