@@ -1,6 +1,6 @@
 # Hi, I'm Kenneth Aladi 👋
 
-I am a Senior Frontend Engineer and Product-focused Software Developer with over 8 years of industry experience building scalable, high-performance web applications. I specialize in React, Next.js, and TypeScript, with a strong focus on clean architecture, reusable component systems, and polished user experiences.
+I am a Senior Software Engineer and Product-focused Software Developer with over 8 years of industry experience building scalable, high-performance web applications. I specialize in React, Next.js, TypeScript, NodeJS and AI Engineering with a strong focus on clean architecture, reusable component systems, and polished user experiences.
 
 I have worked across multiple industries including fintech, blockchain, e-commerce, SaaS, and media, translating complex requirements into reliable, maintainable, and responsive interfaces. I care deeply about performance, accessibility, and long-term code quality, and I enjoy owning features end to end.
 
