@@ -5,6 +5,8 @@ I am a Senior Software Engineer and Product-focused Software Developer with over
 I have worked across multiple industries including fintech, blockchain, e-commerce, SaaS, and media, translating complex requirements into reliable, maintainable, and responsive interfaces. I care deeply about performance, accessibility, and long-term code quality, and I enjoy owning features end to end.
 
 ![Kendevops's Stats](https://github-readme-stats.vercel.app/api?username=kendevops&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/kendevops)](https://ghfind.com/u/kendevops?ref=badge)
+
 
 ## 🚀 About Me
 
